@@ -28,3 +28,4 @@
 - Biểu đồ đường so sánh hiệu suất của toàn bộ tài khoản với benchmark
 - Hiển thị xu hướng theo thời gian
 - Có tooltip và legend chi tiết
+https://1drv.ms/u/s!Aux26aCPkFrBg9BZ4xRM7cxY4fhiTA
